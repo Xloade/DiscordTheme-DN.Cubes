@@ -1,0 +1,185 @@
+//META{"name":"CubesEverywhere","description":"cube theme","author":"X-loade","version":"1.0"}*//
+
+/* Avatars in chat */
+.chat .avatar-large
+{
+     width: 100px;
+     height: 50px;
+     background-size: cover;
+     border-radius: 4px;
+}
+/* Avatars in server list */
+.channel-members-wrap .avatar-small
+{
+    width: 80px;
+    height: 40px;
+    background-size: cover;
+    border-radius: 3px;
+}
+/* Makes avatars in list less cramped */
+.channel-members-wrap .member 
+{
+    height: 45px;
+}
+ /* Avatars in dirrect message list */
+.private-channels .avatar-small
+{
+     width: 67px;
+     height: 37px;
+     background-size: cover;
+     border-radius: 4px; 
+}
+/* Avatars in online friends list */
+.friends-table .friends-row .friends-column-name .avatar-small
+{
+     width: 100px;
+     height: 50px;
+     background-size: cover;
+     border-radius: 4px;
+}
+/* Makes more space for names in  online friends list*/
+#friends .friends-table .friends-column-name
+{
+    width: 400px;
+}
+/* Your avatar in corner */
+.container-iksrDt .avatar-small
+{
+     width: 67px;
+     height: 40px;
+     background-size: cover;
+     border-radius: 4px;
+}
+
+/* Your avatar in settings */
+.userSettingsAccount-2WOnTW .avatar-xxlarge
+{
+     width: 180px;
+     height: 180px;
+     background-size: cover;
+     border-radius: 4px; 
+}
+/* Avatar in profile page */
+.header-2Lg0Oe .avatar-1BXaQj
+{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+/* Status light in profile page */
+.header-2Lg0Oe .avatar-1BXaQj .image-EVRGPw
+{
+    border-radius: 15px;
+    -webkit-mask-size: 500px;
+    -webkit-mask-position-x: -150px;
+    -webkit-mask-position-y: -150px;
+}
+/* Status light in profile page(grey) */
+.topSectionNormal-2LlRG1 .header-2Lg0Oe .avatar-1BXaQj .status-3jUEha
+{
+    border: 4px solid #202225;
+    bottom: -4px;
+    right: -4px;
+}
+/* Status light in profile page(blue) */
+.topSectionPlaying-3jAH9b .header-2Lg0Oe .avatar-1BXaQj .status-3jUEha
+{
+    border: 4px solid #7289da;
+    bottom: -4px;
+    right: -4px;
+}
+/* top bar */
+.typeWindows-15E0Ys
+{
+    background-color: #19298c;
+}
+
+.app,
+.callout-backdrop,
+.bda-backdrop,
+#pubs-container:before {
+background-image: url("https://raw.githubusercontent.com/X-laode/DiscordTheme-DN.Cubes/master/background.png");
+background-size: cover !important;
+}
+/* wall of things that fix tranparancy */
+.channels-3g2vYe {
+background-color: rgba(0,0,0,0.3);
+}
+.container-RYiLUQ {
+background-color: transparent;
+}
+.container-2OU7Cz {
+background-color: transparent;
+}
+.theme-dark .layer, .theme-dark .layers {
+background: rgba(0,0,0,0.18);
+}
+.guilds-wrapper {
+background-color: transparent;
+}
+.theme-dark .chat form .typing {
+background-color: transparent;
+}
+.theme-dark .chat form {
+background-color: transparent;
+box-shadow: none;
+}
+.theme-dark .chat>.content {
+background-color: transparent;
+}
+.theme-dark .chat {
+background-color: transparent;
+}
+.chat .messages {
+background: transparent;
+}
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+background-color: transparent;
+}
+.theme-dark .channel-members {
+background-color: transparent;
+}
+.theme-dark .title-qAcLxz {
+background: transparent;
+box-shadow: none;
+}
+.theme-dark #friends {
+background-color: transparent;
+}
+.theme-dark .headerBar-cxbhPD {
+background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view {
+background: transparent;
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+background-color: transparent;
+border-color: transparent;
+}
+.theme-dark .channel-members-loading[style*="opacity: 1;"] {
+/background: transparent !important;
+}
+.theme-dark .channel-members-loading .member,.theme-dark .channel-members-loading .heading,.theme-dark .channel-members-loading .member:nth-child(3n+2), .theme-dark .channel-members-loading .member:nth-child(7n+4),.theme-dark .channel-members-loading .member:nth-child(2n-4), .theme-dark .channel-members-loading .member:nth-child(7n-1) {
+background: transparent;
+}
+.theme-dark .channel-members-loading .background {
+background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),rgba(247,0,0,.6),rgba(0, 0, 0, 0));
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+background-color: transparent;
+border-color: transparent;
+}
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-20RVFW {
+  background: rgba(0,0,0, 0.2) !important;
+}
+/* wall of things that fix tranparancy END*/
