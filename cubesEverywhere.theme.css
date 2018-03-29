@@ -1,5 +1,10 @@
 //META{"name":"CubesEverywhere","description":"cube theme","author":"X-loade","version":"1.0"}*//
 
+/* for some reason it skips first change */
+.chat .avatar-large
+{
+     width: 100px;
+}
 /* Avatars in server list */
 .channel-members-wrap .avatar-small
 {
