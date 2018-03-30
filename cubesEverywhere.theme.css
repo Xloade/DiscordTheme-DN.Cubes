@@ -120,9 +120,9 @@ background-color: hsla(218,5%,47%,.1);
 #pubs-container:before 
 {
 background-image: url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/clanAvatarV6NoBG.png"), url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/background_new.png");
-background-size: 300px 300px, cover;
+background-size: 240px 240px, cover;
 background-repeat: no-repeat;
-background-position: left 40px bottom 40px, right top;
+background-position: left 70px bottom 43px, right top;
 }
 /* wall of things that fix tranparancy */
 .channels-3g2vYe {
