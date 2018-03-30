@@ -112,9 +112,12 @@
 .app,
 .callout-backdrop,
 .bda-backdrop,
-#pubs-container:before {
-background-image: url("https://raw.githubusercontent.com/X-laode/DiscordTheme-DN.Cubes/master/background.png");
-background-size: cover !important;
+#pubs-container:before 
+{
+background-image: url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/clanAvatarV6NoBG.png");
+background-size: 300px 300px;
+background-repeat: no-repeat;
+background-position: left 40px bottom 40px;
 }
 /* wall of things that fix tranparancy */
 .channels-3g2vYe {
