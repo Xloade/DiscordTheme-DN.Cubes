@@ -108,6 +108,11 @@
 {
    border: 0px; 
 }
+/* chat input */
+.theme-dark .inner-3if5cm
+{
+background-color: hsla(218,5%,47%,.1);
+}
 /* background */
 .app,
 .callout-backdrop,
