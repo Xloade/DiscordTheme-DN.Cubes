@@ -198,6 +198,6 @@ border-color: transparent;
 }
 /* optionally adjust background brightness (0: original image, 1: black) */
 .layers-20RVFW {
-  background: rgba(0,0,0, 0.2) !important;
+  background: rgba(0,0,0, 0) !important;
 }
 /* wall of things that fix tranparancy END*/
