@@ -114,7 +114,7 @@
 .bda-backdrop,
 #pubs-container:before 
 {
-background-image: url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/clanAvatarV6NoBG.png"), url(https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/background_new.png);
+background-image: url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/clanAvatarV6NoBG.png"), url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/background_new.png");
 background-size: 300px 300px, cover;
 background-repeat: no-repeat;
 background-position: left 40px bottom 40px, right top;
