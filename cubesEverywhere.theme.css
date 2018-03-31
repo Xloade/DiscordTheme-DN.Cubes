@@ -14,15 +14,26 @@
      border-radius: 4px;
 }
 /* Avatars in server list */
-.channel-members-wrap .avatar-small
+.channel-members-wrap .avatarWrapper-3E-a5I
 {
     width: 80px;
     height: 40px;
-    background-size: cover;
+}
+.channel-members-wrap .avatar-1BXaQj 
+{
+    width: 80px;
+    height: 40px;
+}
+.channel-members-wrap .image-EVRGPw
+{
     border-radius: 3px;
 }
+.channel-members-wrap .mask-2vyqAW
+{
+    -webkit-mask: unset;
+}
 /* Makes avatars in list less cramped */
-.channel-members-wrap .member 
+.channel-members-wrap .memberOnline-1xn3V8 
 {
     height: 45px;
 }
@@ -74,10 +85,8 @@
 /* Status light in profile page */
 .header-2Lg0Oe .avatar-1BXaQj .image-EVRGPw
 {
-    border-radius: 15px;
-    -webkit-mask-size: 500px;
-    -webkit-mask-position-x: -150px;
-    -webkit-mask-position-y: -150px;
+    border-radius: 4px;
+    -webkit-mask: unset;
 }
 /* Status light in profile page(grey) */
 .topSectionNormal-2LlRG1 .header-2Lg0Oe .avatar-1BXaQj .status-3jUEha
