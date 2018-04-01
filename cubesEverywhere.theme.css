@@ -32,6 +32,14 @@
 {
     -webkit-mask: unset;
 }
+.content-3JzEqq
+{
+    transition: all 400ms ease !important;
+}
+.status-2Devx1
+{
+    border-radius: 4px;
+}
 /* Makes avatars in list less cramped */
 .channel-members-wrap .memberOnline-1xn3V8 
 {
@@ -75,6 +83,25 @@
      background-size: cover;
      border-radius: 4px; 
 }
+/* Avatar in pre-profile page */
+.userPopout-11hFKo .image-EVRGPw,
+.userPopout-11hFKo .flex-lFgbSz
+{
+    border-radius: 4px;
+    -webkit-mask: unset;
+    transition: all 400ms ease !important;
+}
+/* status in pre-profile page */
+.avatarStatus-3asdLF 
+{
+    border-radius: 4px;
+}
+/* Avatar in voice */
+.avatarDefault-3jtQoc,
+.avatarSpeaking-3teDH6
+{
+    border-radius: 2px;
+}
 /* Avatar in profile page */
 .header-2Lg0Oe .avatar-1BXaQj
 {
@@ -88,19 +115,10 @@
     border-radius: 4px;
     -webkit-mask: unset;
 }
-/* Status light in profile page(grey) */
-.topSectionNormal-2LlRG1 .header-2Lg0Oe .avatar-1BXaQj .status-3jUEha
+/* Status light in profile page */
+.header-2Lg0Oe .avatar-1BXaQj .status-3jUEha
 {
-    border: 4px solid #202225;
-    bottom: -4px;
-    right: -4px;
-}
-/* Status light in profile page(blue) */
-.topSectionPlaying-3jAH9b .header-2Lg0Oe .avatar-1BXaQj .status-3jUEha
-{
-    border: 4px solid #7289da;
-    bottom: -4px;
-    right: -4px;
+    border-radius: 4px;
 }
 /* top bar */
 .typeWindows-15E0Ys
@@ -116,6 +134,21 @@
 .theme-dark .inner-3if5cm
 {
 background-color: hsla(218,5%,47%,.1);
+}
+/* guild stuff */
+.guilds-wrapper .guilds .guild .guild-inner
+{
+    background-color: transparent;
+}
+.guilds-wrapper .guilds .guild .guild-inner
+{
+	border-radius: 5px !important;
+	transition: all 400ms ease !important;
+}
+.guilds-wrapper .guilds .guild .guild-inner:hover 
+{
+	border-radius: 15px !important;
+	background-color: hsla(218,5%,47%,.2);
 }
 /* background */
 .app,
