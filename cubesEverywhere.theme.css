@@ -14,21 +14,18 @@
      border-radius: 4px;
 }
 /* Avatars in server list */
-.channel-members-wrap .avatarWrapper-3E-a5I
+.image-EVRGPw
 {
     width: 80px;
-    height: 40px;
-}
-.channel-members-wrap .avatar-1BXaQj 
-{
-    width: 80px;
-    height: 40px;
-}
-.channel-members-wrap .image-EVRGPw
-{
+    height: 35px;
     border-radius: 3px;
 }
-.channel-members-wrap .mask-2vyqAW
+.avatar-1BXaQj
+{
+    width: 80px;
+    height: 35px;
+}
+.mask-2vyqAW
 {
     -webkit-mask: unset;
 }
@@ -41,9 +38,11 @@
     border-radius: 4px;
 }
 /* Makes avatars in list less cramped */
-.channel-members-wrap .memberOnline-1xn3V8 
+.avatarWrapper-3E-a5I
 {
-    height: 45px;
+    padding-bottom: px !important;
+    padding-top: px !important;
+    height: px;
 }
  /* Avatars in dirrect message list */
 .private-channels .avatar-small
@@ -161,6 +160,9 @@ background-size: 240px 240px, cover;
 background-repeat: no-repeat;
 background-position: left 70px bottom 43px, right top;
 }
+.scroller-fzNley{
+   background-color: transparent !important;
+}
 /* wall of things that fix tranparancy */
 .channels-3g2vYe {
 background-color: rgba(0,0,0,0.3);
@@ -194,9 +196,6 @@ background-color: transparent;
 background: transparent;
 }
 .theme-dark .friends-table, .theme-dark .messages-wrapper {
-background-color: transparent;
-}
-.theme-dark .channel-members {
 background-color: transparent;
 }
 .theme-dark .title-qAcLxz {
