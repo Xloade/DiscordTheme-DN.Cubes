@@ -17,13 +17,13 @@
 .members-1bid1J .image-EVRGPw
 {
     width: 80px;
-    height: 35px;
+    height: 40px;
     border-radius: 3px;
 }
 .members-1bid1J .avatar-1BXaQj
 {
     width: 80px;
-    height: 35px;
+    height: 37px;
 }
 .members-1bid1J .mask-2vyqAW
 {
@@ -38,11 +38,9 @@
     border-radius: 4px;
 }
 /* Makes avatars in list less cramped */
-.avatarWrapper-3E-a5I
+.member-2FrNV0
 {
-    padding-bottom: px !important;
-    padding-top: px !important;
-    height: px;
+    height: 42px;
 }
  /* Avatars in dirrect message list */
 .private-channels .avatar-small
