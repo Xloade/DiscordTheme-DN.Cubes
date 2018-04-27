@@ -124,7 +124,11 @@
 /* top bar */
 .typeWindows-15E0Ys
 {
-    background-color: #19298c;
+    background:  #19298c;
+    background-image: url("https://raw.githubusercontent.com/Xloade/DiscordTheme-DN.Cubes/master/ian%20nekos.png");
+    background-repeat: no-repeat;
+    background-size: 100px 14px;
+    background-position: left 61px bottom 3px;
 }
 /* chat scroll */
 .scroller-wrap .scroller.messages::-webkit-scrollbar 
