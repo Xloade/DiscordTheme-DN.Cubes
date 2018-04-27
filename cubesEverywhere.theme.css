@@ -40,7 +40,11 @@
 /* Makes avatars in list less cramped */
 .member-2FrNV0
 {
-    height: 42px;
+    height: 45px;
+}
+.avatar-1BXaQj
+{
+    margin-bottom: 3px;
 }
  /* Avatars in dirrect message list */
 .private-channels .avatar-small
