@@ -82,28 +82,17 @@
      border-radius: 4px; 
 }
 /* Avatar in pre-profile page */
-.headerText-2sdzFM
-{
-    padding-top: 20px;
-    padding-left: 32px !important;
-    padding-right: 0px !important;
-}
-.header-2BwW8b .flex-1xMQg5
-{
-    width: 250px;
-    height: 270px !important;
-}
 .userPopout-3XzG_A .image-33JSyf,
-.userPopout-3XzG_A .flex-1xMQg5,
-.userPopout-3XzG_A .avatarWrapper-3H_478,
-.userPopout-3XzG_A  .wrapper-2F3Zv8
+.userPopout-3XzG_A .flex-1xMQg5
 {
-    left: 8px;
-    width: 200px;
-    height: 200px;
     border-radius: 4px;
     -webkit-mask: unset;
     transition: all 400ms ease !important;
+}
+/* status in pre-profile page */
+.avatarStatus-3Ay1VL 
+{
+    border-radius: 4px;
 }
 /* status in pre-profile page */
 .avatarStatus-3Ay1VL 
