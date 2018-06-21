@@ -14,7 +14,7 @@
      border-radius: 4px;
 }
 /* Avatars in server list */
-.members-1998pB .image-33JSyf, .members-1998pB .small-5Os1Bb
+.members-1998pB .image-33JSyf, .members-1998pB .avatarWrapper-3B0ndJ
 {
     width: 80px;
     height: 40px;
@@ -30,8 +30,9 @@
 }
 .members-1998pB .status-2s6iDp
 {
-    bottom: -1px;
-    border-radius: 4px;
+    left: 66px;
+    bottom: -10px;
+    border-radius: 3px;
 }
 /* Makes avatars in list less cramped */
 .member-3W1lQa
@@ -81,9 +82,25 @@
      border-radius: 4px; 
 }
 /* Avatar in pre-profile page */
-.userPopout-3XzG_A .image-33JSyf,
-.userPopout-3XzG_A .flex-1xMQg5
+.headerText-2sdzFM
 {
+    padding-top: 20px;
+    padding-left: 32px !important;
+    padding-right: 0px !important;
+}
+.header-2BwW8b .flex-1xMQg5
+{
+    width: 250px;
+    height: 270px !important;
+}
+.userPopout-3XzG_A .image-33JSyf,
+.userPopout-3XzG_A .flex-1xMQg5,
+.userPopout-3XzG_A .avatarWrapper-3H_478,
+.userPopout-3XzG_A  .wrapper-2F3Zv8
+{
+    left: 8px;
+    width: 200px;
+    height: 200px;
     border-radius: 4px;
     -webkit-mask: unset;
     transition: all 400ms ease !important;
@@ -100,20 +117,20 @@
     border-radius: 2px;
 }
 /* Avatar in profile page */
-.header-QKLPzZ  .avatar-16XVId
+.header-QKLPzZ  .image-33JSyf, .header-QKLPzZ  .wrapper-2F3Zv8
 {
     width: 200px;
     height: 200px;
     background-size: cover;
 }
 /* Status light in profile page */
-.header-QKLPzZ  .avatar-16XVId .image-33JSyf
+.header-QKLPzZ  .image-33JSyf
 {
     border-radius: 4px;
     -webkit-mask: unset;
 }
 /* Status light in profile page */
-.header-QKLPzZ  .avatar-16XVId .statusProfile-3ynqtt
+.header-QKLPzZ  .statusProfile-3ynqtt
 {
     border-radius: 4px;
 }
@@ -235,4 +252,5 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.35) !important;
 }
 /* wall of things that fix tranparancy END*/
+
 
