@@ -225,7 +225,9 @@ background-color: hsla(218,5%,47%,.1);
 .search-bar.search-bar-light,
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S,
 .theme-dark .members-1998pB,
-.theme-dark .headerBar-UHpsPw{
+.theme-dark .headerBar-UHpsPw,
+.activityFeed-28jde9
+{
   background: transparent !important;
 }
 .theme-dark .card-2WxYqG {
@@ -241,5 +243,6 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.35) !important;
 }
 /* wall of things that fix tranparancy END*/
+
 
 
