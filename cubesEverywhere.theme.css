@@ -6,12 +6,16 @@
      width: 100px;
 }
 /* Avatars in chat */
-.chat .avatar-large
+.chat .da-large
 {
      width: 100px;
      height: 50px;
      background-size: cover;
      border-radius: 4px;
+}
+.contentCozy-3XX413
+{
+    margin-left: 130px;
 }
 /* Avatars in server list */
 .members-1998pB .image-33JSyf, .members-1998pB .avatarWrapper-3B0ndJ
@@ -243,6 +247,9 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.35) !important;
 }
 /* wall of things that fix tranparancy END*/
+
+
+
 
 
 
