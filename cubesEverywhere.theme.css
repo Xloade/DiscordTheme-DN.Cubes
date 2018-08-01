@@ -146,17 +146,14 @@
 {
 background-color: hsla(218,5%,47%,.1);
 }
-/* guild stuff */
-.guilds-wrapper .guilds .guild .guild-inner
+/* servers slist */
+.guildsWrapper-5TJh6A .guild-1EfMGQ .guildInner-3DSoA4
 {
     background-color: transparent;
-}
-.guilds-wrapper .guilds .guild .guild-inner
-{
 	border-radius: 5px !important;
 	transition: all 400ms ease !important;
 }
-.guilds-wrapper .guilds .guild .guild-inner:hover 
+.guildsWrapper-5TJh6A .guild-1EfMGQ .guildInner-3DSoA4:hover 
 {
 	border-radius: 15px !important;
 	background-color: hsla(218,5%,47%,.2);
@@ -247,6 +244,12 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.35) !important;
 }
 /* wall of things that fix tranparancy END*/
+
+
+
+
+
+
 
 
 
