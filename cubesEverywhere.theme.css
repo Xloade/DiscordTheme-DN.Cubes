@@ -1,12 +1,17 @@
 //META{"name":"CubesEverywhere","description":"cube theme","author":"X-loade","version":"1.0"}*//
 
 /* for some reason it skipss first change */
-.chat .avatar-large
+.chat-3bRxxu .avatar-large
 {
      width: 100px;
 }
 /* Avatars in chat */
-.chat .da-large
+.chat-3bRxxu .wrapper-2F3Zv8
+{
+    width: 100px;
+    height: 60px;
+}
+.chat-3bRxxu .image-33JSyf
 {
      width: 100px;
      height: 50px;
@@ -179,12 +184,13 @@ background-color: hsla(218,5%,47%,.1);
 .private-channels,  
 .account, 
 .friend-table-add-header,
-.chat, 
-.content, 
+.chat-3bRxxu,
+.chat-3bRxxu form,
+.content-yTz4x3, 
 .title-wrap:not(.search-bar), 
-.messages-wrapper, 
-.messages .divider span, 
-.messages .divider:before, 
+.messagesWrapper-3lZDfY, 
+.messages-3amgkR .divider-3gKybi span, 
+.messages-3amgkR .divider-3gKybi:before, 
 .content, .message-group-blocked, 
 .is-local-bot-message,
 .channel-members-loading, 
