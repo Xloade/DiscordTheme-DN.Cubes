@@ -11,7 +11,7 @@
     width: 100px;
     height: 60px;
 }
-.chat-3bRxxu .image-33JSyf
+.chat-3bRxxu .image-33JSyf, .chat-3bRxxu .wrapper-2F3Zv8
 {
      width: 100px;
      height: 50px;
@@ -21,6 +21,10 @@
 .contentCozy-3XX413
 {
     margin-left: 130px;
+}
+.containerCozy-jafyvG 
+{
+    padding-bottom: 8px;
 }
 /* Avatars in server list */
 .members-1998pB .image-33JSyf, .members-1998pB .avatarWrapper-3B0ndJ
@@ -250,7 +254,6 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.35) !important;
 }
 /* wall of things that fix tranparancy END*/
-
 
 
 
