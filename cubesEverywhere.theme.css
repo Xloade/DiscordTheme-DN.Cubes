@@ -26,6 +26,17 @@
 {
     padding-bottom: 8px;
 }
+/* Avatars in mentions */
+.mask-3OgeRz
+{
+    -webkit-mask: unset;
+}
+.avatarStatus-3jMZl_
+{
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+}
 /* Avatars in server list */
 .members-1998pB .image-33JSyf, .members-1998pB .avatarWrapper-3B0ndJ
 {
@@ -44,7 +55,7 @@
 .members-1998pB .status-2s6iDp
 {
     left: 66px;
-    bottom: -10px;
+    bottom: 10px;
     border-radius: 3px;
 }
 /* Makes avatars in list less cramped */
@@ -254,6 +265,20 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.35) !important;
 }
 /* wall of things that fix tranparancy END*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
