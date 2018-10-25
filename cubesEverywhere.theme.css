@@ -252,7 +252,11 @@ background-color: hsla(218,5%,47%,.1);
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S,
 .theme-dark .members-1998pB,
 .theme-dark .headerBar-UHpsPw,
-.activityFeed-28jde9
+.activityFeed-28jde9,
+.gameLibrary-TTDw4Y,
+.stickyHeader-1pqx0j,
+.applicationStore-1pNvnv,
+.card-7JP0BX
 {
   background: transparent !important;
 }
@@ -267,6 +271,12 @@ background-color: hsla(218,5%,47%,.1);
 .container-1UB9sr
 {
     background: rgba(0, 0, 0, 0.35) !important;
+}
+/* Activity transparent*/
+.body-SKIE6r,
+.header-1RC2Wb
+{
+    background: rgba(79,84,92,.15) !important;
 }
 /* wall of things that fix tranparancy END*/
 
