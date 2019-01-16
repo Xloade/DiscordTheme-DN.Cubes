@@ -265,7 +265,8 @@ background-color: hsla(218,5%,47%,.1);
 .guildsWrapper-5TJh6A,
 .standardSidebarView-3F1I7i .da-standardSidebarView,
 .sidebarRegion-VFTUkN .da-sidebarRegion,
-.theme-dark .standardSidebarView-3F1I7i
+.theme-dark .standardSidebarView-3F1I7i,
+.contentRegion-3nDuYy
 {
   background: transparent !important;
 }
@@ -284,11 +285,16 @@ background-color: hsla(218,5%,47%,.1);
 }
 /* Activity transparent*/
 .body-SKIE6r,
-.header-1RC2Wb
+.header-1RC2Wb,
 {
     background: rgba(79,84,92,.15) !important;
 }
+.theme-dark .cardPrimary-1Hv-to
+{
+    background: rgba(0, 0, 0, 0.15) !important;
+}
 /* wall of things that fix tranparancy END*/
+
 
 
 
