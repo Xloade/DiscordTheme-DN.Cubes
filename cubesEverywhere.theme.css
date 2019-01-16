@@ -103,12 +103,13 @@
 }
 
 /* Your avatar in settings */
-.userSettingsAccount-2eMFVR .avatar-xxlarge
+.avatarXXLarge-GhVtwJ,
+.avatarXXLarge-GhVtwJ .inner-1W0Bkn
 {
-     width: 180px;
-     height: 180px;
-     background-size: cover;
-     border-radius: 4px; 
+    width: 150px !important;
+    height: 150px;
+    background-size: cover;
+    border-radius: 10px;
 }
 /* Avatar in pre-profile page */
 .userPopout-3XzG_A .image-33JSyf,
@@ -135,8 +136,8 @@
     border-radius: 2px;
 }
 /* Avatar in profile page */
-.avatarXXLarge-GhVtwJ,
-.avatarXXLarge-GhVtwJ .inner-1W0Bkn
+.profile-ZOdGIb .image-33JSyf,
+.avatar-3EQepX
 {
     width: 150px !important;
     height: 150px;
