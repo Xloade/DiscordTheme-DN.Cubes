@@ -76,12 +76,17 @@
      border-radius: 4px; 
 }
 /* Avatars in online friends list */
-.friends-table .friends-row .friends-column-name .avatar-small
+.avatarSmall-3ACRaI,
+.avatarSmall-3ACRaI .inner-1W0Bkn
 {
-     width: 100px;
-     height: 50px;
+     width: 70px;
+     height: 35px;
      background-size: cover;
      border-radius: 4px;
+}
+.avatarSmall-3ACRaI .status-2zcSVk
+{
+    border-radius: 4px;
 }
 /* Makes more space for names in  online friends list*/
 #friends .friends-table .friends-column-name
@@ -130,11 +135,13 @@
     border-radius: 2px;
 }
 /* Avatar in profile page */
-.header-QKLPzZ  .image-33JSyf, .header-QKLPzZ  .wrapper-2F3Zv8
+.avatarXXLarge-GhVtwJ,
+.avatarXXLarge-GhVtwJ .inner-1W0Bkn
 {
-    width: 200px;
-    height: 200px;
+    width: 150px !important;
+    height: 150px;
     background-size: cover;
+    border-radius: 10px;
 }
 /* Status light in profile page */
 .header-QKLPzZ  .image-33JSyf
@@ -254,7 +261,10 @@ background-color: hsla(218,5%,47%,.1);
 .stickyHeader-1pqx0j,
 .applicationStore-1pNvnv,
 .card-7JP0BX,
-.guildsWrapper-5TJh6A
+.guildsWrapper-5TJh6A,
+.standardSidebarView-3F1I7i .da-standardSidebarView,
+.sidebarRegion-VFTUkN .da-sidebarRegion,
+.theme-dark .standardSidebarView-3F1I7i
 {
   background: transparent !important;
 }
@@ -266,7 +276,8 @@ background-color: hsla(218,5%,47%,.1);
     background: rgba(0, 0, 0, 0.0) !important;
 }
 .container-PNkimc,
-.container-1UB9sr
+.container-1UB9sr,
+.theme-dark .sidebarRegion-VFTUkN
 {
     background: rgba(0, 0, 0, 0.35) !important;
 }
