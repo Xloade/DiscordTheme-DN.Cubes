@@ -6,7 +6,7 @@
      width: 100px;
 }
 /* Avatars in chat */
-.chat-3bRxxu .wrapper-2F3Zv8
+/*.chat-3bRxxu .wrapper-2F3Zv8
 {
     width: 100px;
     height: 60px;
@@ -26,7 +26,8 @@
 {
     padding-bottom: 8px;
 }
-/* Avatars in mentions */
+
+/* Avatars in mentions *//*
 .mask-3OgeRz
 {
     -webkit-mask: unset;
@@ -37,7 +38,7 @@
     height: 15px;
     border-radius: 4px;
 }
-/* Avatars in server list */
+/* Avatars in server list *//*
 .members-1998pB .image-33JSyf, .members-1998pB .avatarWrapper-3B0ndJ
 {
     width: 80px;
@@ -58,7 +59,7 @@
     bottom: 10px;
     border-radius: 3px;
 }
-/* Makes avatars in list less cramped */
+/* Makes avatars in list less cramped *//*
 .member-3W1lQa
 {
     height: 45px;
@@ -67,7 +68,7 @@
 {
     margin-bottom: 3px;
 }
- /* Avatars in dirrect message list */
+ /* Avatars in dirrect message list *//*
 .private-channels .avatar-small
 {
      width: 67px;
@@ -75,7 +76,7 @@
      background-size: cover;
      border-radius: 4px; 
 }
-/* Avatars in online friends list */
+/* Avatars in online friends list *//*
 .avatarSmall-3ACRaI,
 .avatarSmall-3ACRaI .inner-1W0Bkn
 {
@@ -88,12 +89,12 @@
 {
     border-radius: 4px;
 }
-/* Makes more space for names in  online friends list*/
+/* Makes more space for names in  online friends list*//*
 #friends .friends-table .friends-column-name
 {
     width: 400px;
 }
-/* Your avatar in corner */
+/* Your avatar in corner *//*
 .container-2Thooq .avatar-small
 {
      width: 67px;
@@ -102,7 +103,7 @@
      border-radius: 4px;
 }
 
-/* Your avatar in settings */
+/* Your avatar in settings *//*
 .avatarXXLarge-GhVtwJ,
 .avatarXXLarge-GhVtwJ .inner-1W0Bkn
 {
@@ -111,7 +112,7 @@
     background-size: cover;
     border-radius: 10px;
 }
-/* Avatar in pre-profile page */
+/* Avatar in pre-profile page *//*
 .userPopout-3XzG_A .image-33JSyf,
 .userPopout-3XzG_A .flex-1xMQg5
 {
@@ -165,13 +166,18 @@
     background-position: left 61px bottom 3px;
 }
 /* chat scroll */
-.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece 
+.scroller-2FKFPG .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece 
 {
-    border: 1px solid #fff;
+    border: 1px solid #fd1d1d;
 }
 .scroller-wrap .scroller::-webkit-scrollbar
 {
     width: 10px;
+}
+.scrollbar-2rkZSL
+{
+    border: 1px solid #fd1d1d !important;
+    background-color: #fd1d1d !important;
 }
 /* chat input */
 .theme-dark .inner-zqa7da
@@ -266,7 +272,11 @@ background-color: hsla(218,5%,47%,.1);
 .standardSidebarView-3F1I7i .da-standardSidebarView,
 .sidebarRegion-VFTUkN .da-sidebarRegion,
 .theme-dark .standardSidebarView-3F1I7i,
-.contentRegion-3nDuYy
+.contentRegion-3nDuYy,
+.scroller-2FKFPG,
+.privateChannels-1nO12o,
+.sidebar-2K8pFh,
+.panels-j1Uci_
 {
   background: transparent !important;
 }
@@ -281,7 +291,7 @@ background-color: hsla(218,5%,47%,.1);
 .container-1UB9sr,
 .theme-dark .sidebarRegion-VFTUkN
 {
-    background: rgba(0, 0, 0, 0.35) !important;
+    background: rgba(0, 0, 0, 0.0) !important;
 }
 /* Activity transparent*/
 .body-SKIE6r,
